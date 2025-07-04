@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Vikash Patel',
     'I design and code things on the web',
     'I\'m currently working on SaaS products and open source projects',
-    'You can find me on <a target="_blank" href="https://www.linkedin.com/in/vkas04">LinkedIn</a>, <a target="_blank" href="https://www.instagram.com/vikashpatel04">Instagram</a> and <a target="_blank" href="https://github.com/vikashpatel04">GitHub</a>',
+    'You can find me on <a target="_blank" href="https://www.linkedin.com/in/vkas04">LinkedIn</a>, <a target="_blank" href="https://www.instagram.com/vikashwastaken">Instagram</a> and <a target="_blank" href="https://github.com/vikashpatel04">GitHub</a>',
     'If you have any million dollar idea, contact me directly at <a href="mailto:vikashpatel.d0414@gmail.com">vikashpatel.d0414@gmail.com</a>',
     'Let\'s connect and build something amazing together 🚀',
     getCurrentTime(),
